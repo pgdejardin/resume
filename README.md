@@ -34,11 +34,21 @@ Build an application to simulate potential acquisition by a company and see whic
   - Animates DDD workshop with business
   - Promotes Hexagonal Architecture, DDD practices and Functional Programming
   - **_Technologies used:_** Scala (2.13), PostgreSQL, React, Private cloud, ZIO, Akka-Http, Doobie, Shapeless
+  
+
+
+- **Developer** @ La Poste _(May 2017 - June 2018)_
+  Build an API management for La Poste (French postal mail) services.
+  - Implements Front & Back
+  - Helps to design
+  - Performances
+  - Promotes PWA and React
+  - **_Technologies used:_** NodeJS, React, API Blueprint, Redis 
 
 **Consultant** @ [Ei-Technologies](https://www.ei-technologies.com/fr/home-page/) _(Mar 2011 - Dec 2015)_
 
 - **Lead Developer** @ Apec _(Jan 2015 - Dec 2015)_
-  - **_Technologies used:_** Java, Tomcat,  
+  - **_Technologies used:_** Java, Tomcat, PostgreSQL, AngularJS
 - **Developer** @ Moss _(Jan 2014 - Jan 2015)_
   - **_Technologies used:_** Scala, Play, PostgreSQL, AngularJS
 
@@ -47,16 +57,23 @@ Build an application to simulate potential acquisition by a company and see whic
 
 ## 🎤 Public Speaking
 
-- **Xebicon 19**
-- **Xebicon 17**
-- **Mois du JS**
+- **[Xebicon 19](https://xebicon.fr)**
+  - [XebiKart : l'envers du décor](https://www.youtube.com/watch?v=rAFN2Kcxhxg&list=PL-Wbj9VN8zDQW7SB6I_-lFdhgPIYxfb_v&index=87&ab_channel=PublicisSapientEngineering)
+- **Xebicon 18**
+  - [Monitorer son application nodejs dans un container](https://www.youtube.com/watch?v=ZPsZj7BqUCg&list=PL-Wbj9VN8zDSIqte8_DzhXesC8GwfksX2&index=5&t=13s&ab_channel=PublicisSapientEngineering)
+  - [Kotlin dans ton Cloud](https://www.youtube.com/watch?v=93iano_LtpA&list=PL-Wbj9VN8zDSIqte8_DzhXesC8GwfksX2&index=35&t=1862s&ab_channel=PublicisSapientEngineering)
+- **Xebicon 16**
+  - [React Native et Redux, une complémentarité hors du commun](https://www.youtube.com/watch?v=tBzluo2guqk&list=PL-Wbj9VN8zDSdEBpm-QNTxaSwEytxzwv_&index=19&t=1068s&ab_channel=PublicisSapientEngineering)
+- **MIXIT 17**
+  - [Progressive Web Apps, au-delà du buzzword](https://mixitconf.org/2017/progressive-web-apps-au-dela-du-buzzword)
+- **[Mois du JS](http://le-mois-du-javascript.xebia.fr/)**
 <br /><br />
 
 ## 💬 Languages
 
 **French**: Native <br />
 **English**: Fluent <br />
-**Japanese**: JLPT 5
+**Japanese**: Beginner
 <br /><br />
 
-## 👩🏼‍🎓 Education
+## 👨🏻‍🎓 Education
