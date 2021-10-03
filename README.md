@@ -18,7 +18,7 @@ Build the new betting platform on AWS cloud provider
   
 <br />
 
-- **Front Developer** @ Publicis _(Dec 2020 - Apr 2021)_
+- **Front Developer** @ Publicis _(Dec 2020 - Apr 2021)_ <br />
 Build an online event platform in collaboration with Orange Live.
   - Develops two websites
   - Works with UX/UI Designer
@@ -27,7 +27,7 @@ Build an online event platform in collaboration with Orange Live.
 
 <br />
 
-- **Lead Developer** @ Société Générale - AFG _(May 2019 - Dec 2020)_
+- **Lead Developer** @ Société Générale - AFG _(May 2019 - Dec 2020)_ <br />
 Build an application to simulate potential acquisition by a company and see which impact it can have on business plan and other indicators
   - Implements Front & Back
   - Helps to design
@@ -37,7 +37,7 @@ Build an application to simulate potential acquisition by a company and see whic
   
 <br />
 
-- **Lead Developer** @ Europ'Assistance _(May 2018 - May 2019)_
+- **Lead Developer** @ Europ'Assistance _(May 2018 - May 2019)_ <br />
   Build an application for back office to open claims and automatically send them to garage owner to tug cars and to handle them.
   - Implements Front & Back
   - Architectural workshop
@@ -47,7 +47,7 @@ Build an application to simulate potential acquisition by a company and see whic
 
 <br />
 
-- **Developer** @ La Poste _(May 2017 - June 2018)_
+- **Developer** @ La Poste _(May 2017 - June 2018)_ <br />
   Build an API management for La Poste (French postal mail) services.
   - Implements Front & Back
   - Helps to design
@@ -57,9 +57,9 @@ Build an application to simulate potential acquisition by a company and see whic
 
 **Consultant** @ [Ei-Technologies](https://www.ei-technologies.com/fr/home-page/) _(Mar 2011 - Dec 2015)_
 
-- **Lead Developer** @ Apec _(Jan 2015 - Dec 2015)_
+- **Lead Developer** @ Apec _(Jan 2015 - Dec 2015)_ <br />
   - **_Technologies used:_** Java, Tomcat, PostgreSQL, AngularJS
-- **Developer** @ Moss _(Jan 2014 - Jan 2015)_
+- **Developer** @ Moss _(Jan 2014 - Jan 2015)_ <br />
   - **_Technologies used:_** Scala, Play, PostgreSQL, AngularJS
 
 **Developer** @ Freelance _(Sep 2008 - Aug 2010)_
