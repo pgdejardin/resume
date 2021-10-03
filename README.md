@@ -77,6 +77,9 @@ Build an application to simulate potential acquisition by a company and see whic
 - **MIXIT 17**
   - [Progressive Web Apps, au-delà du buzzword](https://mixitconf.org/2017/progressive-web-apps-au-dela-du-buzzword)
 - **[Mois du JS](http://le-mois-du-javascript.xebia.fr/)**
+  - Gérer ses dépendances dans le code grâce à JSPM
+  - Le JS d'aujourd'hui s'écrit avec les langages de demain : { TS || ES2015 }
+  - Devenez quelqu'un de meilleur avec ESLint
 <br /><br />
 
 ## 💬 Languages
