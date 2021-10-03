@@ -35,7 +35,7 @@ Build an application to simulate potential acquisition by a company and see whic
   - Promotes Hexagonal Architecture, DDD practices and Functional Programming
   - **_Technologies used:_** Scala (2.13), PostgreSQL, React, Private cloud, ZIO, Akka-Http, Doobie, Shapeless
   
-
+<br />
 
 - **Developer** @ La Poste _(May 2017 - June 2018)_
   Build an API management for La Poste (French postal mail) services.
@@ -77,3 +77,6 @@ Build an application to simulate potential acquisition by a company and see whic
 <br /><br />
 
 ## 👨🏻‍🎓 Education
+
+- [Principles of Reactive Programming](https://coursera.org/share/358418cf2fa0d64bcf79b750b5f82cbd)
+- [Functional Programming Principles in Scala](https://coursera.org/share/ce60d4e0dd2bcb6fa916606ad7bb51f3)
